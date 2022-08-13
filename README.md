@@ -7,7 +7,7 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-Este projeto tem por finalizade criar um site estático E-commerce para ajudar a Dona Rita a vender suas marmitas, atingindo uma maior quantidades de pessoas e tornando prática a divulgação e os recebimentos de pedidos e encomendas. 
+Este projeto tem por finalizade criar um site estático E-commerce para ajudar a Dona Rita a vender suas marmitas, atingindo uma maior quantidades de pessoas e tornando prática a divulgação e os recebimentos de pedidos e encomendas. Ele irá utilizar estrutura de repetção para listar todas as marmitas na tela principal e somente a marmita selecionada na segunda tela.
 
 <h2 align="center">Tecnologias utilizadas</h2>
 <ul>
